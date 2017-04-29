@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="title">30 sp</dimen>
+    <dimen name="button">100</dimen>
+    <dimen name="marginbutton">50</dimen>
+
+
+</resources>
